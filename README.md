@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marianaer
 - 👀 I’m interested in population genomics and ancient DNA
 - 🌱 I’m currently learning I don't even know
-- 📫 How to reach me: [@mescobariana](twitter.com/mescobariana) on twitter or email me at mescobar.rd@gmail.com
+- 📫 How to reach me: [@mescobariana](http://twitter.com/mescobariana) on twitter or email me at mescobar.rd@gmail.com
 
 
 <!---
