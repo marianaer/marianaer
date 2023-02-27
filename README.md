@@ -2,7 +2,7 @@
 - 👀 I’m interested in population genomics and ancient DNA
 - 🌱 I’m currently learning I don't even know
 - 📫 How to reach me: [@mescobariana](http://twitter.com/mescobariana) on twitter or email me at mescobar.rd@gmail.com
-- :clipboard: You can have a look at my <a href="pdfs/CV_MEscobar_PPU.pdf" target="_blank">CV here.</a>
+- :clipboard: You can have a look at my <a href="pdfs/CV_MEscobar.pdf" target="_blank">CV here.</a>
 
 
 
