@@ -3,11 +3,7 @@
 - 📫 How to reach me: [@mescobariana](http://twitter.com/mescobariana) on twitter or email me at mescobar.rd@gmail.com
 - :clipboard: You can have a look at my <a href="./CV_MEscobar_Pasteur.pdf" target="_blank">CV here.</a>
 
-<p id="test">Before</p>
 
-<script>
-document.getElementById('test').innerText = 'JavaScript works';
-</script>
 
 <!---
 marianaer/marianaer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
